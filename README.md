@@ -1,7 +1,7 @@
 # Gideon1
 Gideon1 framework
 
-Gideon 1 framework was lost. This deposit is to help try to rebuild it. Which as been not possible so far.
+Gideon 1 framework was lost. This depo is to help try to rebuild it. Which as been not possible so far.
 
 Gideon 1 (aka Alpha1) Uses Unity 1 Java/C# framework used for Deltrin City, SPNK, original SC. It had custom packes made by ACC for FPS and 3rd person controllers, along with vechile, driven and flight tools. Using rthe legacy partical system.
 
